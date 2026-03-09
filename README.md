@@ -1,7 +1,7 @@
 # Домашнее задание №4: Внедрение Hilt и Room
 
-**ФИО:** [Зинченко Мария Сергеевна]  
-**Группа:** [Б9123-09.03.03ПИКД]  
+**ФИО:** Зинченко Мария Сергеевна
+**Группа:** Б9123-09.03.03ПИКД
 
 ---
 
@@ -49,9 +49,9 @@
 
 
 ## Скриншоты
-1. ![Loading screen](https://github.com/Maria-Zin/Homework4/screenshots/loading.jpg)
-2. ![List of countries](https://github.com/Maria-Zin/Homework4/screenshots/list.jpg)
-3. ![Country details](https://github.com/Maria-Zin/Homework4/screenshots/detail.jpg)
-4. ![Favourites screen](https://github.com/Maria-Zin/Homework4/screenshots/favourites.jpg)
-5. ![Error](https://github.com/Maria-Zin/Homework4/screenshots/error.jpg)
-6. ![Room](https://github.com/Maria-Zin/Homework4/screenshots/room.jpg)
+1. ![Loading screen](screenshots/loading.jpg)
+2. ![List of countries](screenshots/list.jpg)
+3. ![Country details](screenshots/detail.jpg)
+4. ![Favourites screen](screenshots/favourites.jpg)
+5. ![Error](screenshots/error.jpg)
+6. ![Room](screenshots/room.jpg)
